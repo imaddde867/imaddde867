@@ -20,4 +20,4 @@ I'm a Data Engineering & AI student at Turku University of Applied Sciences, pas
 - Contributing to open-source data engineering projects
 
 ## 📫 Connect With Me
-[Add your LinkedIn profile link here]
+(https://www.linkedin.com/in/imad-eddine-el-mouss-986741262/)
