@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imad Eddine EL MOUSS
+# 👋 Hi, I'm Imad Eddine EL MOUSSr
 
 Data Engineering & AI enthusiast crafting intelligent solutions and scalable data infrastructure. Currently studying at Turku University of Applied Sciences with a focus on autonomous systems and machine learning.
 
@@ -54,6 +54,7 @@ Data Engineering & AI enthusiast crafting intelligent solutions and scalable dat
 
 ## 📈 Statistics
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imaddde867&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaddde867&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🌱 Currently Learning
 - AWS Machine Learning Foundations
