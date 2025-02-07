@@ -60,7 +60,6 @@ Data Engineering & AI enthusiast crafting intelligent solutions and scalable dat
 - AWS Machine Learning Foundations
 - Natural Language Processing
 - Advanced AI/ML Techniques
-- Maritime Autonomous Systems
 
 ## 🔍 Looking For
 - Internship opportunities in AI/ML
