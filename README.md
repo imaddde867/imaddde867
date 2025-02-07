@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imad Eddine EL MOUSSr
+# 👋 Hi, I'm Imad Eddine EL MOUSS
 
 Data Engineering & AI enthusiast crafting intelligent solutions and scalable data infrastructure. Currently studying at Turku University of Applied Sciences with a focus on autonomous systems and machine learning.
 
@@ -10,23 +10,28 @@ Data Engineering & AI enthusiast crafting intelligent solutions and scalable dat
 
 ## 🛠 Technical Stack
 ### Languages & Frameworks
-- Python | SQL | MATLAB
-- Django | FastAPI
-- Advanced Mathematics
+- **Python | SQL | MATLAB**
+- **Django | FastAPI**
 
 ### Data Engineering & AI
-- ETL Pipeline Development
-- Apache Airflow
-- Database Design & Management
-- Machine Learning Models
-- Natural Language Processing
+- **ETL & Data Pipelines** (Apache Airflow, Data Lake Architecture)
+- **Database Management** (PostgreSQL, Database Design)
+- **Machine Learning & NLP** (Model Development, APIs, Message Brokers)
+
+### Computer Science & Networking
+- **Data Structures & Algorithms**
+- **Operating Systems** (Processes, Memory, File Systems)
+- **Networking** (TCP/IP, HTTP/HTTPS, DNS, FTP, SSH, WebSockets)
+- **Security** (TLS/SSL, Firewalls, VPN, Load Balancing, CDN)
+
+### Cloud & DevOps
+- **Cloud Platforms** (AWS, Azure, Google Cloud)
+- **DevOps** (Git, CI/CD, Infrastructure as Code)
 
 ### Tools & Platforms
-- AWS (RDS, Cloud Services)
-- PostgreSQL
-- Git | Jupyter Notebook
-- Anaconda | Wireshark
-- Data Visualization (Seaborn, Matplotlib)
+- **Version Control**: Git | GitHub  
+- **Development**: Jupyter Notebook | Anaconda | Wireshark  
+- **Data Visualization**: Seaborn | Matplotlib  
 
 ## 🚀 Featured Projects
 
