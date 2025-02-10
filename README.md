@@ -25,7 +25,7 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
 ## 📈 Stats
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imaddde867&theme=radical" alt="Imaddde867's GitHub Achievements" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imaddde867&theme=dark" alt="Imaddde867's GitHub Achievements" />
 </div>
 
 ## 🌱 Currently Learning
