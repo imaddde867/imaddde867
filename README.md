@@ -23,11 +23,6 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 - **Finnish Language Tutor:** NLP integration
 - **Cloud Chat Application:** Real-time messaging, AWS integration
 
-## 📈 Stats
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imaddde867&theme=dark" alt="Imaddde867's GitHub Achievements" />
-</div>
-
 ## 🌱 Currently Learning
 - AWS ML Foundations
 - NLP
