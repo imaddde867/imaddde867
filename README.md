@@ -1,3 +1,4 @@
+markdown
 # 👋 Hi, I'm Imad Eddine EL MOUSS
 <p align="center">
   <img src="banner.png" alt="Profile Banner" width="80%">
@@ -20,23 +21,19 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 - **Cloud & DevOps:** AWS, Azure, Google Cloud, Git, CI/CD
 
 ## 🚀 Projects
-- **Weather Analytics Platform:** ETL pipeline, Django dashboard
-  - [Repository](https://github.com/imaddde867/weather-analytics)
+- **[Weather Analytics Platform](https://github.com/imaddde867/ETL-Pipeline-for-Historical-Weather-Data):** ETL pipeline, Django dashboard
   - **Description:** Developed an ETL pipeline for weather data and created a Django dashboard for data visualization.
   - **Technologies Used:** Python, Django, PostgreSQL
 
-- **Vessel Tracking System:** Trajectory prediction, maritime data
-  - [Repository](https://github.com/imaddde867/vessel-tracking)
+- **[Vessel Tracking System](https://github.com/imaddde867/Maritime-Vessel-Tracking-System):** Trajectory prediction, maritime data
   - **Description:** Implemented trajectory prediction algorithms for vessel tracking using maritime data.
   - **Technologies Used:** Python, Apache Airflow, AWS
 
 - **Finnish Language Tutor:** NLP integration
-  - [Repository](https://github.com/imaddde867/finnish-tutor)
   - **Description:** Created an NLP-powered language tutor for learning Finnish, including speech recognition and synthesis.
   - **Technologies Used:** Python, NLP, FastAPI
 
-- **Cloud Chat Application:** Real-time messaging, AWS integration
-  - [Repository](https://github.com/imaddde867/cloud-chat)
+- **[Cloud Chat Application](https://github.com/imaddde867/ClearBox):** Real-time messaging, AWS integration
   - **Description:** Developed a real-time cloud-based chat application with AWS integration.
   - **Technologies Used:** Python, AWS, WebSockets
 
