@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Imad Eddine EL MOUSS
 
-![Profile Banner](banner.png)
-
+<p align="center">
+  <img src="banner.png" alt="Profile Banner">
+</p>
 Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
 ## 🎓 About Me
