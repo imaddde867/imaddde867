@@ -29,13 +29,13 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
   - **Description:** Implemented trajectory prediction algorithms for vessel tracking using maritime data.
   - **Technologies Used:** Python, Apache Airflow, AWS
 
-- **Finnish Language Tutor:** NLP integration
-  - **Description:** Created an NLP-powered language tutor for learning Finnish, including speech recognition and synthesis.
-  - **Technologies Used:** Python, NLP, FastAPI
-
 - **[Cloud Chat Application](https://github.com/imaddde867/ClearBox):** Real-time messaging, AWS integration
   - **Description:** Developed a real-time cloud-based chat application with AWS integration.
   - **Technologies Used:** Python, AWS, WebSockets
+
+- **Finnish Language Tutor:** NLP integration
+  - **Description:** Created an NLP-powered language tutor for learning Finnish, including speech recognition and synthesis.
+  - **Technologies Used:** Python, NLP, FastAPI
 
 ## 🌱 Currently Learning
 - AWS ML Foundations
