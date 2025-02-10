@@ -48,3 +48,7 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
 ---
 *"Building the future through data and AI"*
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=imaddde867.imaddde867" alt="Visitor Count" />
+</div>
+
