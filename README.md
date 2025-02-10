@@ -24,9 +24,9 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 - **Cloud Chat Application:** Real-time messaging, AWS integration
 
 ## 📈 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=imaddde867&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imaddde867&theme=gotham&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaddde867&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imaddde867&theme=radical" alt="Imaddde867's GitHub Achievements" />
+</div>
 
 ## 🌱 Currently Learning
 - AWS ML Foundations
