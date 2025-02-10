@@ -46,8 +46,8 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
 Currently listening to :
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kjdtddyajxcbo5pcsimvkllxqa&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kjdtddyajxcbo5pcsimvkllxqa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true" alt="Spotify Profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kjdtddyajxcbo5pcsimvkllxqa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true" alt="Spotify Profile" style="max-width: 100%; height: auto;" />
   </a>
 </div>
