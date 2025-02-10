@@ -46,4 +46,4 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
 *Now listening to :*
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kjdtddyajxcbo5pcsimvkllxqa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kjdtddyajxcbo5pcsimvkllxqa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kjdtddyajxcbo5pcsimvkllxqa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kjdtddyajxcbo5pcsimvkllxqa&redirect=true)
