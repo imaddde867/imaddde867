@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Imad Eddine EL MOUSS
 
-![Profile Banner](https://cdn.prod.website-files.com/61488ca0856b5b46d00073e0/61840818ce35bcd65d646a20_neural_network-li.png)
+![Profile Banner](banner.png)
 
 Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
