@@ -59,9 +59,9 @@ Data Engineering & AI enthusiast crafting intelligent solutions and scalable dat
 
 ## 📈 Statistics
 
-![imaddde867's Stats](https://github-readme-stats.vercel.app/api?username=imaddde867&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![imaddde867's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imaddde867&theme=dark&hide_border=true)
-![imaddde867's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaddde867&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![imaddde867's Stats](https://github-readme-stats.vercel.app/api?username=imaddde867&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![imaddde867's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imaddde867&theme=gotham&hide_border=true)
+![imaddde867's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaddde867&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌱 Currently Learning
 - AWS Machine Learning Foundations
