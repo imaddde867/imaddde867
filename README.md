@@ -1,4 +1,3 @@
-markdown
 # 👋 Hi, I'm Imad Eddine EL MOUSS
 Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
