@@ -1,7 +1,7 @@
 markdown
 # 👋 Hi, I'm Imad Eddine EL MOUSS
 <p align="center">
-  <img src="banner.png" alt="Profile Banner" width="80%">
+  <img src="[banner.png](https://www.genengnews.com/wp-content/uploads/2019/11/Nov12_2019_Getty_151330460_NervousSystem-e1617313554551.jpg)" alt="Profile Banner" width="100%">
 </p>
 Data Engineering & AI enthusiast at Turku University of Applied Sciences.
 
