@@ -29,7 +29,7 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
   - **Description:** Developed a real-time cloud-based chat application with AWS integration.
   - **Technologies Used:** Python, AWS, WebSockets
 
-- **Finnish Language Tutor:** NLP integration
+- **[Sisu-speak](https://github.com/imaddde867/Sisu-speak):** NLP powered AI Finnish tutor
   - **Description:** Created an NLP-powered language tutor for learning Finnish, including speech recognition and synthesis.
   - **Technologies Used:** Python, NLP, FastAPI
 
