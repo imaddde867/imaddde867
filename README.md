@@ -21,15 +21,15 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences.
   - **Description:** Developed an ETL pipeline for weather data and created a Django dashboard for data visualization.
   - **Technologies Used:** Python, Django, PostgreSQL
 
-- **[Vessel Tracking System](https://github.com/imaddde867/Maritime-Vessel-Tracking-System):** Trajectory prediction, maritime data
+- **[NaviCast](https://github.com/imaddde867/Maritime-Vessel-Tracking-System):** Trajectory prediction, maritime data
   - **Description:** Implemented trajectory prediction algorithms for vessel tracking using maritime data.
   - **Technologies Used:** Python, Apache Airflow, AWS
 
-- **[Cloud Chat Application](https://github.com/imaddde867/ClearBox):** Real-time messaging, AWS integration
+- **[ClearBox](https://github.com/imaddde867/ClearBox):** Real-time messaging, AWS integration
   - **Description:** Developed a real-time cloud-based chat application with AWS integration.
   - **Technologies Used:** Python, AWS, WebSockets
 
-- **[Sisu-speak](https://github.com/imaddde867/Sisu-speak):** NLP powered AI Finnish tutor
+- **[Sisu-Speak](https://github.com/imaddde867/Sisu-speak):** NLP powered AI Finnish tutor
   - **Description:** Created an NLP-powered language tutor for learning Finnish, including speech recognition and synthesis.
   - **Technologies Used:** Python, NLP, FastAPI
 
