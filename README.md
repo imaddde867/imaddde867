@@ -48,8 +48,6 @@ Data Engineering & AI enthusiast at Turku University of Applied Sciences, passio
 ### [NaviCast: Maritime Traffic Intelligence Platform](https://github.com/imaddde867/Maritime-Vessel-Tracking-System)
 *Live at [navicast.tech](http://navicast.tech)*
 
-<img align="right" width="250" src="https://api.placeholder.com/250/200" alt="NaviCast screenshot">
-
 Advanced platform for maritime vessel tracking, analytics, and trajectory prediction using AI.
 
 **Key Features:**
@@ -60,12 +58,8 @@ Advanced platform for maritime vessel tracking, analytics, and trajectory predic
 
 **Technologies:** Python, PostgreSQL, Machine Learning (Random Forest), MQTT, FastAPI, Leaflet.js
 
-<br clear="right"/>
-
 ### [ClearBox: Secure Messaging Platform](https://github.com/imaddde867/ClearBox)
 *Demo at [clearbox.live](https://clearbox.live)*
-
-<img align="right" width="250" src="https://api.placeholder.com/250/200" alt="ClearBox screenshot">
 
 Full-stack, GDPR-compliant secure messaging platform with end-to-end encryption.
 
@@ -77,11 +71,7 @@ Full-stack, GDPR-compliant secure messaging platform with end-to-end encryption.
 
 **Technologies:** React, FastAPI, MQTT, JWT Authentication, PostgreSQL/SQLite, Fernet Encryption
 
-<br clear="right"/>
-
 ### [Sisu-Speak: AI-Powered Finnish Language Tutor](https://github.com/imaddde867/Sisu-speak)
-
-<img align="right" width="250" src="https://api.placeholder.com/250/200" alt="Sisu-Speak screenshot">
 
 Interactive language learning platform using NLP to help users master Finnish.
 
@@ -93,11 +83,7 @@ Interactive language learning platform using NLP to help users master Finnish.
 
 **Technologies:** Python, NLP, STT/TTS, FastAPI, Audio Processing
 
-<br clear="right"/>
-
 ### [Spotify Recommendation System](https://github.com/imaddde867/unsupervised-learning-ecommerce-analysis)
-
-<img align="right" width="250" src="https://api.placeholder.com/250/200" alt="Spotify Recommendation System screenshot">
 
 Advanced unsupervised learning system for music recommendations based on Spotify data.
 
@@ -108,8 +94,6 @@ Advanced unsupervised learning system for music recommendations based on Spotify
 - Content-based and collaborative filtering
 
 **Technologies:** Python, scikit-learn, pandas, numpy, Matplotlib, Seaborn
-
-<br clear="right"/>
 
 ## 📊 GitHub Analytics
 
