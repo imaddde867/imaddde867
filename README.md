@@ -31,8 +31,6 @@ Advanced platform for maritime vessel tracking, analytics, and trajectory predic
   
 - **Technologies:** Python, PostgreSQL, Machine Learning (Random Forest), MQTT, FastAPI, Leaflet.js
 
-![NaviCast](static/NAVICAST-logo/logo-white.svg)
-
 ### [ClearBox: Secure Messaging Platform](https://github.com/imaddde867/ClearBox)
 *Demo at [clearbox.live](https://clearbox.live)*
 
@@ -46,8 +44,6 @@ Full-stack, GDPR-compliant secure messaging platform with end-to-end encryption.
   
 - **Technologies:** React, FastAPI, MQTT, JWT Authentication, PostgreSQL/SQLite, Fernet Encryption
 
-![ClearBox](clearbox/frontend/logo/vector/default-monochrome-white.svg)
-
 ### [Sisu-Speak: AI-Powered Finnish Language Tutor](https://github.com/imaddde867/Sisu-speak)
 
 Interactive language learning platform using NLP to help users master Finnish.
@@ -60,7 +56,7 @@ Interactive language learning platform using NLP to help users master Finnish.
   
 - **Technologies:** Python, NLP, STT/TTS, FastAPI, Audio Processing
 
-### [Music Recommendation System](https://github.com/imaddde867/unsupervised-learning-ecommerce-analysis)
+### [Spotify Recommendation System](https://github.com/imaddde867/unsupervised-learning-ecommerce-analysis)
 
 Advanced unsupervised learning system for music recommendations based on Spotify data.
 
@@ -72,17 +68,7 @@ Advanced unsupervised learning system for music recommendations based on Spotify
   
 - **Technologies:** Python, scikit-learn, pandas, numpy, Matplotlib, Seaborn
 
-### [Weather Analytics Platform](https://github.com/imaddde867/ETL-Pipeline-for-Historical-Weather-Data)
-
-Comprehensive ETL pipeline for weather data collection, processing, and visualization.
-
-- **Key Features:**
-  - Automated data extraction from weather APIs
-  - Data transformation and cleaning
-  - Django dashboard for visualization
-  - Historical weather pattern analysis
-  
-- **Technologies:** Python, Django, PostgreSQL, ETL
+...etc
 
 ## 🌱 Currently Learning
 - Advanced AWS Machine Learning Services
