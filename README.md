@@ -1,49 +1,99 @@
 # 👋 Hi, I'm Imad Eddine EL MOUSS
-Data Engineering & AI enthusiast at Turku University of Applied Sciences.
+Data Engineering & AI enthusiast at Turku University of Applied Sciences, passionate about creating innovative ML solutions and data pipelines.
 
 ## 🎓 About Me
 - 📚 Data Engineering & AI Student
-- 🌱 Exploring AWS Machine Learning and NLP
-- 🚢 Working on vessel tracking systems
-- 🤖 Passionate about AI innovations
+- 🌱 Specializing in AWS Machine Learning, NLP, and AI
+- 🚢 Developing advanced vessel tracking systems and predictive analytics
+- 🤖 Building intelligent applications for real-world problems
 
 ## 🛠 Technical Stack
-- **Languages:** Python, SQL, MATLAB
-- **Frameworks:** Django, FastAPI
-- **Data Engineering:** Apache Airflow, Data Lake Architecture
-- **Database:** PostgreSQL, Database Design
-- **ML & NLP:** Model Development, APIs
-- **Networking:** TCP/IP, HTTP/HTTPS, DNS, SSH
+- **Languages:** Python, SQL, MATLAB, JavaScript
+- **Frameworks:** Django, FastAPI, React
+- **Data Engineering:** Apache Airflow, Data Lake Architecture, ETL Pipelines
+- **Databases:** PostgreSQL, SQLite, Database Design
+- **AI & ML:** NLP, Trajectory Prediction, Content-Based Recommendation Systems
 - **Cloud & DevOps:** AWS, Azure, Google Cloud, Git, CI/CD
+- **Networking:** TCP/IP, HTTP/HTTPS, DNS, SSH, MQTT
 
-## 🚀 Projects
-- **[Weather Analytics Platform](https://github.com/imaddde867/ETL-Pipeline-for-Historical-Weather-Data):** ETL pipeline, Django dashboard
-  - **Description:** Developed an ETL pipeline for weather data and created a Django dashboard for data visualization.
-  - **Technologies Used:** Python, Django, PostgreSQL
+## 🚀 Featured Projects
 
-- **[NaviCast](https://github.com/imaddde867/Maritime-Vessel-Tracking-System):** Trajectory prediction, maritime data
-  - **Description:** Implemented trajectory prediction algorithms for vessel tracking using maritime data.
-  - **Technologies Used:** Python, Apache Airflow, AWS
+### [NaviCast: Maritime Traffic Intelligence Platform](https://github.com/imaddde867/Maritime-Vessel-Tracking-System)
+*Live at [navicast.tech](http://navicast.tech)*
 
-- **[ClearBox](https://github.com/imaddde867/ClearBox):** Real-time messaging, AWS integration
-  - **Description:** Developed a real-time cloud-based chat application with AWS integration.
-  - **Technologies Used:** Python, AWS, WebSockets
+Advanced platform for maritime vessel tracking, analytics, and trajectory prediction using AI.
 
-- **[Sisu-Speak](https://github.com/imaddde867/Sisu-speak):** NLP powered AI Finnish tutor
-  - **Description:** Created an NLP-powered language tutor for learning Finnish, including speech recognition and synthesis.
-  - **Technologies Used:** Python, NLP, FastAPI
+- **Key Features:**
+  - Real-time AIS data processing from maritime vessels
+  - AI-powered trajectory prediction (30 minutes ahead)
+  - Interactive map visualization with filtering capabilities
+  - REST API for vessel data and predictions
+  
+- **Technologies:** Python, PostgreSQL, Machine Learning (Random Forest), MQTT, FastAPI, Leaflet.js
+
+![NaviCast](static/NAVICAST-logo/logo-white.svg)
+
+### [ClearBox: Secure Messaging Platform](https://github.com/imaddde867/ClearBox)
+*Demo at [clearbox.live](https://clearbox.live)*
+
+Full-stack, GDPR-compliant secure messaging platform with end-to-end encryption.
+
+- **Key Features:**
+  - Real-time messaging with end-to-end encryption
+  - Group chats and asynchronous message delivery
+  - User presence tracking and read receipts
+  - GDPR compliance with data minimization
+  
+- **Technologies:** React, FastAPI, MQTT, JWT Authentication, PostgreSQL/SQLite, Fernet Encryption
+
+![ClearBox](clearbox/frontend/logo/vector/default-monochrome-white.svg)
+
+### [Sisu-Speak: AI-Powered Finnish Language Tutor](https://github.com/imaddde867/Sisu-speak)
+
+Interactive language learning platform using NLP to help users master Finnish.
+
+- **Key Features:**
+  - Speech-to-text and pronunciation analysis
+  - Real-time feedback on grammar and pronunciation
+  - Contextual conversation evaluation
+  - Text-to-speech feedback in Finnish
+  
+- **Technologies:** Python, NLP, STT/TTS, FastAPI, Audio Processing
+
+### [Music Recommendation System](https://github.com/imaddde867/unsupervised-learning-ecommerce-analysis)
+
+Advanced unsupervised learning system for music recommendations based on Spotify data.
+
+- **Key Features:**
+  - Audio feature extraction and analysis
+  - Multiple clustering algorithms (K-Means, DBSCAN, GMM)
+  - Dimensionality reduction techniques (PCA, t-SNE, UMAP)
+  - Content-based and collaborative filtering
+  
+- **Technologies:** Python, scikit-learn, pandas, numpy, Matplotlib, Seaborn
+
+### [Weather Analytics Platform](https://github.com/imaddde867/ETL-Pipeline-for-Historical-Weather-Data)
+
+Comprehensive ETL pipeline for weather data collection, processing, and visualization.
+
+- **Key Features:**
+  - Automated data extraction from weather APIs
+  - Data transformation and cleaning
+  - Django dashboard for visualization
+  - Historical weather pattern analysis
+  
+- **Technologies:** Python, Django, PostgreSQL, ETL
 
 ## 🌱 Currently Learning
-- AWS ML Foundations
-- NLP
-- Advanced AI/ML Techniques
+- Advanced AWS Machine Learning Services
+- Deep Learning for Natural Language Processing
+- Computer Vision Applications
+- Reinforcement Learning Techniques
 
 ## 🔍 Looking For
-- 🚀 AI/ML internships
-- 🤝 Collaboration on projects
-- 🌟 Open source contributions
-
-Feel free to reach out if you have an exciting AI/ML internship opportunity or if you'd like to collaborate on innovative projects.
+- 🚀 AI/ML internships and research opportunities
+- 🤝 Collaboration on innovative data and AI projects
+- 🌟 Open source contributions in ML/AI space
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-eddine-el-mouss-986741262/)
