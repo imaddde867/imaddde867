@@ -8,10 +8,10 @@ Data Engineering & AI innovator at Turku University of Applied Sciences, transfo
 
 ## 🎓 About Me
 
-- 📚 Advanced Data Engineering & AI Student with production-level project experience
-- 🌱 AWS Machine Learning specialist developing enterprise-grade NLP and prediction systems
-- 🚢 Creator of NaviCast, a maritime intelligence platform processing millions of vessel data points daily
-- 🤖 Building AI systems that transform raw data into actionable business intelligence
+- 📚 Advanced Data Engineering & AI student with production-level project experience
+- 🌱 AWS Machine Learning specialist crafting enterprise-grade NLP and prediction systems
+- 🚢 Creator of *NaviCast*, a maritime intelligence platform processing millions of vessel data points daily
+- 🤖 Passionate about building AI systems that turn raw data into actionable business insights
 
 ## 🧠 Areas of Expertise
 
@@ -56,19 +56,16 @@ Data Engineering & AI innovator at Turku University of Applied Sciences, transfo
 ## 🚀 Featured Projects
 
 ### [NaviCast: Maritime Traffic Intelligence Platform](https://github.com/imaddde867/Maritime-Vessel-Tracking-System)
-Enterprise-grade maritime intelligence system processing real-time AIS signals from thousands of vessels for predictive analytics and route optimization.
-
-**Technologies:** Python, PostgreSQL, Random Forest, MQTT, FastAPI, Leaflet.js
+Enterprise-grade system analyzing real-time AIS signals from thousands of vessels for predictive analytics and route optimization.  
+**Tech:** Python, PostgreSQL, Random Forest, MQTT, FastAPI, Leaflet.js
 
 ### [ClearBox: Secure Messaging Platform](https://github.com/imaddde867/ClearBox)
-Production-ready E2E encrypted messaging platform built with enterprise security standards and GDPR compliance.
-
-**Technologies:** React, FastAPI, MQTT, JWT Authentication, PostgreSQL, Fernet Encryption
+Production-ready, end-to-end encrypted messaging platform designed with enterprise security and GDPR compliance in mind.  
+**Tech:** React, FastAPI, MQTT, JWT Authentication, PostgreSQL, Fernet Encryption
 
 ### [Sisu-Speak: AI-Powered Finnish Language Tutor](https://github.com/imaddde867/Sisu-speak)
-NLP-driven language learning platform leveraging speech recognition and linguistics algorithms to accelerate Finnish language acquisition.
-
-**Technologies:** Python, Transformers, STT/TTS APIs, FastAPI
+NLP-driven platform using speech recognition and linguistics algorithms to accelerate Finnish language learning.  
+**Tech:** Python, Transformers, STT/TTS APIs, FastAPI
 
 ## 📊 GitHub Analytics
 
@@ -77,11 +74,13 @@ NLP-driven language learning platform leveraging speech recognition and linguist
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaddde867&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
+*Highlight:* Active contributor to maritime and NLP projects with growing open-source impact.
+
 ## 🌱 Current Focus
 
-- 🧠 Implementing advanced AWS ML services for enterprise applications
-- 📝 Developing large language models with domain-specific fine-tuning
-- 👁️ Building computer vision systems for industrial automation
+- 🧠 Deploying advanced AWS ML services for enterprise-grade applications
+- 📝 Fine-tuning large language models for domain-specific use cases
+- 👁️ Exploring computer vision for industrial automation solutions
 
 ## 🌐 Connect
 
@@ -92,7 +91,11 @@ NLP-driven language learning platform leveraging speech recognition and linguist
 </div>
 
 ## 🗣️ Languages
-- 🇬🇧 English (Professional) · 🇫🇷 French (Professional) · 🇲🇦 Arabic (Professional) · 🇫🇮 Finnish (A2)
+
+- 🇬🇧 **English**: Professional  
+- 🇫🇷 **French**: Professional  
+- 🇲🇦 **Arabic**: Professional  
+- 🇫🇮 **Finnish**: A2 (Learning)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imaddde867&style=flat-square&color=3584E4" alt="Profile visitor" />
