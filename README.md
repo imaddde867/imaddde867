@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imad Eddine EL MOUSS
+# 👋 Hi, I'm Imad 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Pipeline+Architect;AWS+Certified+Specialist;Building+Tomorrow's+Intelligence" alt="Typing SVG" />
