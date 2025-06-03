@@ -63,7 +63,7 @@ Enterprise-grade system analyzing real-time AIS signals from thousands of vessel
 Production-ready, end-to-end encrypted messaging platform designed with enterprise security and GDPR compliance in mind.  
 **Tech:** React, FastAPI, MQTT, JWT Authentication, PostgreSQL, Fernet Encryption
 
-### [Sisu-Speak: AI-Powered Finnish Language Tutor](https://github.com/imaddde867/Sisu-speak)
+### [Sisu-Speak: AI-Powered Finnish Language Tutor](https://github.com/imaddde867/sisu-docs)
 NLP-driven platform using speech recognition and linguistics algorithms to accelerate Finnish language learning.  
 **Tech:** Python, Transformers, STT/TTS APIs, FastAPI
 
