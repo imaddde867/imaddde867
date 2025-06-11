@@ -55,7 +55,7 @@ Data Engineering & AI innovator at Turku University of Applied Sciences, transfo
 
 ## 🚀 Featured Projects
 
-### [Music Recommendation Engine Using Spotify Data]((https://github.com/imaddde867/spotify-clusters))
+### [Music Recommendation Engine Using Spotify Data](https://github.com/imaddde867/spotify-clusters)
 Sophisticated ML-driven music recommendation engine analyzing 1.1M+ Spotify tracks using advanced unsupervised learning techniques and dimensionality reduction.  
 **Tech:** Python, scikit-learn, PCA, K-means Clustering, Flask, Pandas, NumPy  
 
