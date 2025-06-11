@@ -55,6 +55,10 @@ Data Engineering & AI innovator at Turku University of Applied Sciences, transfo
 
 ## 🚀 Featured Projects
 
+### [Music Recommendation Engine Using Spotify Data](https://github.com/imaddde867/music-recommendation-system)
+Sophisticated ML-driven music recommendation engine analyzing 1.1M+ Spotify tracks using advanced unsupervised learning techniques and dimensionality reduction.  
+**Tech:** Python, scikit-learn, PCA, K-means Clustering, Flask, Pandas, NumPy  
+
 ### [NaviCast: Maritime Traffic Intelligence Platform](https://github.com/imaddde867/Maritime-Vessel-Tracking-System)
 Enterprise-grade system analyzing real-time AIS signals from thousands of vessels for predictive analytics and route optimization.  
 **Tech:** Python, PostgreSQL, Random Forest, MQTT, FastAPI, Leaflet.js
