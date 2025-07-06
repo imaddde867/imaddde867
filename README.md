@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Imad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=AI+%26+Machine+Learning+Engineer;Data+Pipeline+Architect;AWS+Certified+Specialist;Building+Tomorrow's+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+AI+Innovation;Machine+Learning+%7C+LLM+Fine-tuning;AWS+Cloud+%7C+Real-time+Analytics;Recommendation+Systems+%7C+MLOps;Computer+Vision+%7C+Predictive+Analytics;ETL+Pipelines+%7C+Microservices;Production-grade+AI+%7C+Scalable+Solutions;Business+Intelligence+%7C+Deep+Learning;Data+Architecture+%7C+Streaming+Analytics;Cloud-native+%7C+Innovation" alt="Typing SVG" />
 </div>
 
 **Data Engineering & AI Innovator** transforming complex data challenges into intelligent solutions that deliver measurable business impact. Currently pursuing Advanced Data Engineering & AI at Turku University of Applied Sciences.
