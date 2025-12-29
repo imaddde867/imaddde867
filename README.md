@@ -1,28 +1,33 @@
-# Imad Eddine | Data & AI Engineer
+# Imad Eddine El Mouss
 
-**Transforming data into production-grade intelligence**  
-☁️ AWS Certified · 🧠 ML Systems · 🚀 Scalable Pipelines  
+**Data & AI Engineer** · Turku, Finland  
+Recent graduate (TUAS) · [Thesis: Industrial Procedural Knowledge Extraction](https://www.theseus.fi/handle/10024/907018)
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=imaddde867&label=Profile%20views&color=0e75b6&style=flat)
+---
 
-### Core Stack
-**Python** · **SQL** · **TensorFlow/PyTorch**  
-**AWS** · **Docker** · **Airflow** · **FastAPI**
+### What I Build
+Large language model pipelines · Knowledge graph systems · Real-time ML infrastructure
 
-### Focus Areas
-✦ LLM Optimization  
-✦ MLOps Architecture  
-✦ Real-time Data Systems  
+**Stack:** Python · PyTorch/TensorFlow · Docker · FastAPI · Neo4j · AWS
 
-### Quick Links
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-eddine-el-mouss-986741262)
-&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imadlab.me)
-&nbsp;&nbsp;
-[![SisuSpeak](https://img.shields.io/badge/SisuSpeak-Live-0F766E?style=for-the-badge&logo=sparkles&logoColor=white)](https://sisuspeak.live)
+---
 
-### Recent Work
-- Explore my **personal lab** at [imadlab.me](https://imadlab.me) for case studies and demos.  
-- Check out my **startup**, [sisuspeak.live](https://sisuspeak.live), an AI‑powered Finnish‑learning platform.  
-- Scroll down to see **pinned projects** for highlights ↓
+### Current Projects
+**[imadlab.me](https://imadlab.me)** – Portfolio & case studies  
+**[SisuSpeak](https://sisuspeak.live)** – AI-powered Finnish language tutor (live)  
+**[IPKE Thesis](https://www.theseus.fi/handle/10024/907018)** – Procedural knowledge extraction for Industry 5.0
+
+---
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-eddine-e-986741262/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://imadlab.me)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+**Languages:** English · French · Arabic · Finnish (A2)
+
+![Profile Views](https://komarev.com/ghpvc/?username=imaddde867&color=0e75b6&style=flat-square)
