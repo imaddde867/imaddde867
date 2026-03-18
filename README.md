@@ -12,7 +12,7 @@ Large language model pipelines · Knowledge graph systems · Real-time ML infras
 
 ---
 
-### Current Projects
+### Links
 **[imadlab.com](https://imadlab.com)** – Portfolio & case studies  
 **[SisuSpeak](https://sisuspeak.live)** – AI-powered Finnish language tutor (live)  
 **[IPKE Thesis](https://www.theseus.fi/handle/10024/907018)** – Procedural knowledge extraction for Industry 5.0
