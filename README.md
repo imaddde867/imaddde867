@@ -1,7 +1,7 @@
 # Imad Eddine El Mouss
 
-**Data & AI Engineer** · Turku, Finland  
-Recent graduate (TUAS) · [Thesis: Industrial Procedural Knowledge Extraction](https://www.theseus.fi/handle/10024/907018)
+**Research Engineer at CoRe, Turku University of Applied Sciences** · Turku, Finland<br>
+B.Eng. Data Engineering & Artificial Intelligence (TUAS, 2025) · [Thesis: Industrial Procedural Knowledge Extraction](https://www.theseus.fi/handle/10024/907018)
 
 ---
 
@@ -22,12 +22,10 @@ Large language model pipelines · Knowledge graph systems · Real-time ML infras
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-eddine-e-986741262/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://imadlab.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://imadlab.com)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imadeddine200507@gmail.com)
 
 ---
 
 **Languages:** English · French · Arabic · Finnish (A2)
-
-![Profile Views](https://komarev.com/ghpvc/?username=imaddde867&color=0e75b6&style=flat-square)
