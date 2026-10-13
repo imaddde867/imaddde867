@@ -27,7 +27,3 @@ Large language model pipelines · Knowledge graph systems · Real-time ML infras
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/imaadd05)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imadeddine200507@gmail.com)
-
----
-
-**Languages:** English · French · Arabic · Finnish (A2)
